@@ -1,15 +1,14 @@
 ****************************************************
-  ____                   _  __                    _
- / ___|_ __ __ _ ___ ___| |/ /___ _ __ _ __   ___| |
-| |  _| '__/ _` / __/ __| ' // _ \ '__| '_ \ / _ \ |
-| |_| | | | (_| \__ \__ \ . \  __/ |  | | | |  __/ |
- \____|_|  \__,_|___/___/_|\_\___|_|  |_| |_|\___|_|
+TTTTT U  U K   K III K   K EEEEE RRRR  N   N EEEEE L
+  T   U  U K  K   I  K  K  E     R   R NN  N E     L
+  T   U  U KK     I  KK    EEE   RRRR  N N N EEE   L
+  T   U  U K  K   I  K  K  E     R  R  N  NN E     L
+  T   UUU  K   K III K   K EEEEE R   R N   N EEEEE LL
 *****************************************************
  Source    : Based on A515F_EUR_S source code 
  Chipset   : Exynos 9611 with Mali G72 MP3     
  Android   : For OneUI5/Supported AOSP ROMs
- Developer : Royna (@roynatech on TG)
- Support   : Telegram @galaxya51support 
+ Developer : Pachadomenic
 *****************************************************
                  CLEAN AND STABLE KERNEL         
 *****************************************************
@@ -18,6 +17,8 @@
                   MAIN FEATURES                 
 *****************************************************
  Removed Security Stuffs, debugging codes, etc..
+ Over Clock BIG cores to 2.6Ghz Small cores 2.0Ghz
+ Upstream kernel to Linux 4.14.157
  Balance between performance and battery life   
- Compiled kernel with Neutron Clang 17.0.0
+ Compiled kernel with Neutron Clang 18
 *****************************************************
